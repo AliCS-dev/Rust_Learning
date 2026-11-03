@@ -3,7 +3,15 @@
 version = 4
 
 [[package]]
+name = "Fibonacci"
+version = "0.1.0"
+
+[[package]]
 name = "Hello_World"
+version = "0.1.0"
+
+[[package]]
+name = "Temperature_conversion"
 version = "0.1.0"
 
 [[package]]
@@ -83,3 +91,7 @@ name = "rand_core"
 version = "0.10.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "63b8176103e19a2643978565ca18b50549f6101881c443590420e4dc998a3c69"
+
+[[package]]
+name = "variables"
+version = "0.1.0"

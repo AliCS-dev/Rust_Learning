@@ -2,6 +2,6 @@
 members = [
     "guessing_game",
     "Hello_World",
-    "hello_cargo",
+    "hello_cargo", "variables", "Temperature_conversion", "Fibonacci",
 ]
 resolver = "3"
